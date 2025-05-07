@@ -8,9 +8,11 @@ Reference: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino
 - Screenshot of Arduino IDE showing selected board & port
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/00222dea-9f31-4673-adf1-832d73c836f5" />
 
+
   
 - Photo of the ESP blinking LED (my own)
 <img width="289" alt="image" src="https://github.com/user-attachments/assets/440d23e8-938f-478c-9315-c2f73a8d5454" />
+
 
 
 
@@ -21,6 +23,7 @@ Reference: https://randomnerdtutorials.com/esp32-digital-inputs-outputs-arduino/
 
   
 - Photo of the ESP blinking LED (my own)
+
 ![trim D61C6649-0A6F-4EFD-8D7B-D24EE917B56A](https://github.com/user-attachments/assets/275da787-b863-4eed-b186-178cf99ec5fc)
 
 
