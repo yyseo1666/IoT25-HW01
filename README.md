@@ -21,7 +21,7 @@ Reference: https://randomnerdtutorials.com/esp32-digital-inputs-outputs-arduino/
 
   
 - Photo of the ESP blinking LED (my own)
-![trim D61C6649-0A6F-4EFD-8D7B-D24EE917B56A](https://github.com/user-attachments/assets/9cf5c175-21bc-42a7-b547-e6b84e8ae50d)
+![trim D61C6649-0A6F-4EFD-8D7B-D24EE917B56A](https://github.com/user-attachments/assets/275da787-b863-4eed-b186-178cf99ec5fc)
 
 
 ## Assignment 3. 
