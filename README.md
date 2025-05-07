@@ -21,6 +21,7 @@ Reference: https://randomnerdtutorials.com/esp32-digital-inputs-outputs-arduino/
 
   
 - Photo of the ESP blinking LED (my own)
+![trim D61C6649-0A6F-4EFD-8D7B-D24EE917B56A](https://github.com/user-attachments/assets/9cf5c175-21bc-42a7-b547-e6b84e8ae50d)
 
 
 ## Assignment 3. 
@@ -32,3 +33,5 @@ Reference: https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/
 - Photo of the ESP blinking LED (my own)
 ![trim 4970C6BA-8DC4-4864-9137-CEB37C89F7F2](https://github.com/user-attachments/assets/348863b2-679a-44b0-b32c-afdb741a8b61)
 
+  - Serial monitor
+<img width="1302" alt="image" src="https://github.com/user-attachments/assets/e59b0446-a9f3-49ea-a29e-fae2f798a2e9" />
