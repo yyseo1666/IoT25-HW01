@@ -30,4 +30,5 @@ Reference: https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/
 
   
 - Photo of the ESP blinking LED (my own)
+![trim 4970C6BA-8DC4-4864-9137-CEB37C89F7F2](https://github.com/user-attachments/assets/348863b2-679a-44b0-b32c-afdb741a8b61)
 
