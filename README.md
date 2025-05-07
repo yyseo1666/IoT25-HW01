@@ -32,6 +32,7 @@ Reference: https://randomnerdtutorials.com/esp32-digital-inputs-outputs-arduino/
 Reference: https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/
 
 - Screenshot of Arduino IDE showing selected board & port
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/307dcc46-2038-4b0a-b4c4-18e58b08663f" />
 
   
 - Photo of the ESP blinking LED (my own)
